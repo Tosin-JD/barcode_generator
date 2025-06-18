@@ -1,0 +1,4 @@
+wxPython
+reportlab
+python-barcode
+pillow
