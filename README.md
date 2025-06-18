@@ -10,6 +10,8 @@ This is simple app for generating barcode written with python. Currently availab
 ## Installation
 ```bash
 pip install -r requirements.txt
+```
 
 ```bash
 python src/app.py
+```
